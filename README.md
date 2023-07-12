@@ -1,9 +1,8 @@
 # Clinic-Management-System
 A comprehensive web application for clinic management developed using PHP, MySQL, Bootstrap CSS, and HTML, featuring user account management, a relational database for storing medical information, and a user-friendly interface with access control.
-:php: 
-:MySQL:
-![PHP]([https://example.com/php-icon.png](https://th.bing.com/th/id/R.0a647fc5050bad726b04da3b43811462?rik=dcIjXOXZzstB5w&riu=http%3a%2f%2fpngimg.com%2fuploads%2fphp%2fphp_PNG43.png&ehk=7TdwQLfezWpSM0aLD5IF72eM0WJ81ZTLj59vJ%2fbMo2M%3d&risl=&pid=ImgRaw&r=0)) 
-![MySQL]([https://example.com/mysql-icon.png](https://th.bing.com/th/id/R.0a647fc5050bad726b04da3b43811462?rik=dcIjXOXZzstB5w&riu=http%3a%2f%2fpngimg.com%2fuploads%2fphp%2fphp_PNG43.png&ehk=7TdwQLfezWpSM0aLD5IF72eM0WJ81ZTLj59vJ%2fbMo2M%3d&risl=&pid=ImgRaw&r=0))
+
+### Languages and Tools
+<img align="left" width="30px" alt="java" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
 
 
 ## Project Specifications 
