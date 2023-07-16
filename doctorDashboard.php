@@ -5,10 +5,10 @@ require_once ('classes/Doctor.php');
 include 'header.php';
 
 // Check if user is logged in and redirect to login page if not
-// if (!isset($_SESSION['loggedIn']) || $_SESSION['loggedIn'] !== true || ($_SESSION['userType'] !== 'doctor')) {
-//     header('Location: login.php');
-//     exit;
-// }
+if (!isset($_SESSION['loggedIn']) || $_SESSION['loggedIn'] !== true || ($_SESSION['userType'] !== 'doctor')) {
+    header('Location: login.php');
+    exit;
+}
 
 $doctor = new Doctor($db);
 
