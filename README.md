@@ -27,5 +27,16 @@ The following are the major functional capabilities of the system:
   <li>Medical Record Management: Doctors can create and view clinical records for patient visits, and staff can generate reports using portions of these records.</li>
   <li>Lab Results Management: The system will check lab results for abnormalities and automatically email the doctor if an abnormal result is found.</li>
 </ul>
-
 </p>
+
+## System Designs
+### Use Case Diagram
+![UseCaseDiagram](https://github.com/James-Pitt-dev/Clinic-Management-System/assets/39842510/20626409-38b3-4896-ad26-23b10a68143e)
+
+### Class Diagram
+![ClassDiagram](https://github.com/James-Pitt-dev/Clinic-Management-System/assets/39842510/9f319089-5a90-43c5-9dc4-43b1d09c2ae6)
+
+### ER Diagram
+![ERDiagram](https://github.com/James-Pitt-dev/Clinic-Management-System/assets/39842510/94b3ad1d-fe88-4500-91e2-4b8128b47d23)
+
+
