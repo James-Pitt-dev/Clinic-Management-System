@@ -2,9 +2,9 @@
 // Creating the Database connection ***********
 
   $dbHost = 'localhost';
-  $dbName = 'ocms';
-  $dbUser = 'root';
-  $dbPass = '';
+  $dbName = 'secret';
+  $dbUser = 'secret';
+  $dbPass = 'secret';
 
   $db = mysqli_connect($dbHost, $dbUser, $dbPass, $dbName);
 
